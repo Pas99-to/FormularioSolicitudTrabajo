@@ -1,0 +1,21 @@
+
+body {
+    background-image: url("./img/FondoPrincipal.jpg");
+  }
+
+  .container{
+    
+    position:relative;
+    align-items: center;
+    justify-content: center;
+    top:20ch;
+    left: 5ch;
+  
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
